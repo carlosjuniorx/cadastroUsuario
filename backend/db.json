@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "id": 2,
+      "name": "Maria Paula",
+      "email": "maria@gmail.com"
+    },
+    {
+      "name": "carlos roberto roballo mello junior",
+      "email": "junior@junio.com",
+      "id": 3
+    },
+    {
+      "name": "junior",
+      "email": "@junior",
+      "id": 4
+    }
+  ]
+}
